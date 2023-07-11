@@ -1,0 +1,10 @@
+argparse
+pandas
+datetime
+requests
+bs4
+urllib3
+eventlet
+scihub-cn
+openpyxl
+aiohttp
