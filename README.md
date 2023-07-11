@@ -78,3 +78,8 @@ python main.py -u $url -o kidney -t --appid 你的id --appkey 你的key --apispe
 cd ./script
 python main.py -d "../output/kidney/PubMed_gutkidneyaxisformatabstractsize.xlsx"
 ```
+
+# 结果预览
+
+![image](https://github.com/PiaoyangGuohai1/pubmed_get/assets/53299096/7a4dc9d7-dd92-45a9-bf5b-950bdb21c7f1)
+
